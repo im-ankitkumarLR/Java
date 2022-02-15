@@ -17,7 +17,7 @@ public class Solution3 {
      for(int i=1;i<=10;i++){
          
          result=N*i;
-         System.out.println(N "" " +"x"+i+"="+result);
+         System.out.println(N+ " x "+i+" = "+result);
          
      }
      
